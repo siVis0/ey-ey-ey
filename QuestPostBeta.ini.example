@@ -1,0 +1,12 @@
+[QuestPost]
+QuestId=66845
+Players=1
+PassEnabled=0
+Passcode=8008
+Verbose=1
+
+[Addresses]
+; RVAs from MonsterHunterWorld.exe image base (0x140000000)
+BuildPostRva=1146BA0
+SendPostRva=00000000
+GlobalBaseRva=00000000
